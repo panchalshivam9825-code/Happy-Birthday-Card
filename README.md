@@ -53,7 +53,7 @@ npm install
 4. Create a `.env` file in the root directory, and add the following lines.
 
 ```env
- NAME='AANGII🌸✨️'
+ NAME=''
  PIC='name-of-image.extension'
 
 ```
